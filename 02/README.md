@@ -23,5 +23,22 @@ Practice and gain skills to produce designs for the latest trends and projects.
 ### Find a supportive Design Community
 Identify the right community on social media. Behence, Pixel, Instagram, Dribble, and many more
 
+#### Behence
+
+#### Pexel
+
+#### Dribble
+
+#### Canva
+
+#### Instagram:
+- @worldbranddesign
+- @inspirational.branding
+- @adobedesigners
+- @baugasm
+- @george_bokhua
+- @ianbarnard
+- @logotix
+
 
 
