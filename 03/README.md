@@ -26,20 +26,16 @@ This provides industry standard set of colors - with names. Check for some way t
 - BLACK - Power, Discipline, Elegance
 - WHITE - Purity, cleanliness, light
 
-Warm Colors: Red, Yellow, Orange
+### Warm / Cool
+- Warm Colors: Red, Yellow, Orange
+- Cool Colors: Blue, Green, Violet
 
-Cool Colors: Blue, Green, Violet
-
-Using similar colors - warm or cool, creates a uniform look. This is called color harmony. 
-
+## Color Harmonies
 There are different color harmonies based on the wheel. By picking a base color, or starting color, we can come up with a good harmonous color pallete using the color wheel.
-
-Monochromatic Color Harmony - different shades of same color - a radial line on the color wheel.
-
-Analogous Color Harmony - Set of colors are different hues close to the main color.
-
-Complementary Colors - Radially opposite colors on the color wheel
-
-Triad - Three colors evenly spaced across the wheel
+- Using similar colors - warm or cool, creates a uniform look. This is called color harmony. 
+- Monochromatic Color Harmony - different shades of same color - a radial line on the color wheel.
+- Analogous Color Harmony - Set of colors are different hues close to the main color.
+- Complementary Colors - Radially opposite colors on the color wheel
+- Triad - Three colors evenly spaced across the wheel
 
 
