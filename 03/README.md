@@ -1,2 +1,45 @@
 # Color Theory
 
+## Color Systems
+- RGB, CMYK, HSB, HSL
+
+## Color Picker: 
+Perfect tool for selecting colors: Adobe Color Pallete. Lots of functionality that can help identify the color palatte for the design
+- https://color.adobe.com/create/color-wheel
+
+## Inspiration
+- Search "color pallets" on Pinterest. Lots of readymade ones
+
+## Pantone Colors
+https://www.pantone.com/hk/en/color-systems/for-graphic-design
+This provides industry standard set of colors - with names. Check for some way to get RGB value for these - so that they can be referred in Adobe.
+
+## Color Emotions
+- RED - Energy, Alertness, Love
+- ORANGE - Excitement, Art, Food
+- YELLOW - Happines, Stimulation, Attention
+- GREEN - Health, Calmness, Earth
+- BLUE - Trust, Loyalty, Security
+- PURPLE - Wealth, Pride, Luxury
+- BROWN - reliability, honesty, natural
+- GREY - neurtality, communication, composure
+- BLACK - Power, Discipline, Elegance
+- WHITE - Purity, cleanliness, light
+
+Warm Colors: Red, Yellow, Orange
+
+Cool Colors: Blue, Green, Violet
+
+Using similar colors - warm or cool, creates a uniform look. This is called color harmony. 
+
+There are different color harmonies based on the wheel. By picking a base color, or starting color, we can come up with a good harmonous color pallete using the color wheel.
+
+Monochromatic Color Harmony - different shades of same color - a radial line on the color wheel.
+
+Analogous Color Harmony - Set of colors are different hues close to the main color.
+
+Complementary Colors - Radially opposite colors on the color wheel
+
+Triad - Three colors evenly spaced across the wheel
+
+
