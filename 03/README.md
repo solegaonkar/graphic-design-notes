@@ -38,4 +38,10 @@ There are different color harmonies based on the wheel. By picking a base color,
 - Complementary Colors - Radially opposite colors on the color wheel
 - Triad - Three colors evenly spaced across the wheel
 
+## Mood Boards
+We can directly extract the color pallete from a given image, using the mood boards. That can extract a pallete with the same mood as the original image. Load the image into the adobe color
+
+https://color.adobe.com/create/image
+
+Can also do similar with Canva.com - but not as versatile as adobe.
 
