@@ -60,5 +60,18 @@ Great for headlines
 RockWell, Archer, Archer Pro
 Thick bold lines with no contrast. 
 
+## Sans Serif Fonts
+Modern, Clean and Sleak elegance. But lack the charm
+Minimalism
+Big Bold Headlines
+Great for Digital media.
+Most of the rebrands have changed from serif to sans serif
+
+Example:
+Helvetica
+Cassina
+Futura - Gooogle Logo - mathematically precise,perfect circles
+Futura Demi Bold 
+Avant Garde Gothic - Adidas logo
 
 
