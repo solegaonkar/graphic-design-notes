@@ -45,3 +45,5 @@ https://color.adobe.com/create/image
 
 Can also do similar with Canva.com - but not as versatile as adobe.
 
+# Duotones & Monotones
+Very easy to create in Photoshop. Look great. (Spotify Ads 2018)
